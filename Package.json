@@ -1,0 +1,14 @@
+{
+  "name": "com.rp.soundmanager",
+  "version": "0.0.1",
+  "displayName": "Sound Manager",
+  "description": "Eazy Sound Manager",
+  "unity": "2018.1",
+  "keywords": [
+    "Sound Manager"
+  ],
+  "author": {
+    "name": "Ramesh Poreddy",
+    "email": "ramesh.poreddy@gmail.com"
+  }
+}
